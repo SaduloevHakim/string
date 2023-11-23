@@ -1,13 +1,13 @@
 # JavaScript Strings
-### На JavaScript есть 3 вида Strins
+### На JavaScript есть 3 вида Strings
 ###### например:
 #### 1. "Двойной ковичка"  -  " Hello World "
-#### 2. ' ковичка'  -  ' Hello World '
-#### 3. `  `  -  ` Hello World `
+#### 2. 'одиночный ковичка'  -  ' Hello World '
+#### 3. ` Обратные кнопки `  -  ` Hello World `
 >
 >
 >
-###  Методы strinng JavaScript 
+###  Методы string JavaScript 
 #### concat(), trim(), includes(), indexOf(), replase(), replaseAll(), repeat(), slice(), substring(), split(), toSrting(), toLowerCase(), toUpperCase(), charAt() 
 
 >
